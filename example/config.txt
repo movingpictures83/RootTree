@@ -1,0 +1,2 @@
+Prefix plugins/RootTree/example/
+Plugin RootTree inputfile unrooted.tre outputfile rooted.tre
